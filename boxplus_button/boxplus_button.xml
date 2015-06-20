@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" method="upgrade" group="editors-xtd">
+        <name>Editor - Boxplus Button</name>
+        <author>Yevgeniy Goncharov</author>
+        <creationDate>Jun 2015</creationDate>
+        <copyright>(c) Yevgeniy Goncharov, 2015. All rights reserved.</copyright>
+        <license>GPL</license>
+        <authorEmail>g.yevgeniy.p@gmail.com</authorEmail>
+        <authorUrl>http://sys-admin.kz</authorUrl>
+        <version>1.0.1</version>
+        <description>
+            "This plugin adds BoxPlus button in to the editor"
+        </description>
+        <files>
+            <filename plugin="boxplus_button">boxplus_button.php</filename>
+        </files>
+</extension>
